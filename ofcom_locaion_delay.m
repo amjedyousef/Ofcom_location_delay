@@ -58,7 +58,7 @@ stop_freq = 790000000;
 height=7.5;
 heightType = '"AGL"';
 %%
-no_queries=10; %Select how many queries per location
+no_queries=1; %Select how many queries per location
 
 %Location data
 
